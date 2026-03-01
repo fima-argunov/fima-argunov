@@ -7,7 +7,6 @@
 🌍
 <a href="https://scholar.google.com/citations?user=w30pCPoAAAAJ&hl=ru" title="Google Scholar">
   Google Scholar 
-  <img src="https://github.com/user-attachments/assets/ed3d4d7c-5ca1-4a6f-9fba-79b84920f6eb" alt="Google Scholar" width="32" height="32">
 </a>
 &nbsp;
 <a href="https://www.researchgate.net/profile/Efim-Argunov" title="ResearchGate">
@@ -17,17 +16,14 @@
 &nbsp;
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57427134000" title="Scopus">
   Scopus 
-  <img src="https://github.com/user-attachments/assets/4f620edc-373f-4d43-aefa-762cd4a23766" alt="Scopus" width="32" height="32">
 </a>
 &nbsp;
 <a href="https://www.webofscience.com/wos/author/record/ABF-2074-2020" title="Web of Science">
   Web of Science 
-  <img src="https://github.com/user-attachments/assets/745ad5df-8909-412e-95dc-784dbcff1998" alt="WoS" width="32" height="32">
 </a>
 &nbsp;
 <a href="https://colab.ws/researchers/R-3AB12-0E6AC-HV43P" title="WS Colab">
   WS Colab 
-  <img src="https://github.com/user-attachments/assets/5608eb3d-c672-4467-a89f-2e5fa5a5572a" alt="WS Colab" width="32" height="32">
 </a>
 </p>
 
