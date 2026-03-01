@@ -11,7 +11,6 @@
 &nbsp;
 <a href="https://www.researchgate.net/profile/Efim-Argunov" title="ResearchGate">
   ResearchGate 
-  <img src="https://www.researchgate.net/favicon.ico" alt="ResearchGate" width="32" height="32">
 </a>
 &nbsp;
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57427134000" title="Scopus">
